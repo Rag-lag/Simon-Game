@@ -55,7 +55,7 @@ function chckAns(currLevel) {
     playSound("wrong");
     animateGameOver();
     $("h1").text("Game Over, Press Any Key to Restart");
-    restart();
+    setTimeout(restart, 1000);
     // console.log("worng");
   }
 
