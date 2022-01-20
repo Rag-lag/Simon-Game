@@ -62,7 +62,7 @@ function chckAns(currLevel) {
 }
 
 // Intial press
-$(document).keypress(function() {
+$(document).click(function() {
   if (started == false) {
     nextSequence();
     started = true;
