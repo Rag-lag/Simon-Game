@@ -2,8 +2,6 @@
 
 A web-based implementation of the classic Simon electronic memory game. Test your memory by repeating the increasingly complex pattern of colors and sounds.
 
-![Simon Game Preview](add_your_screenshot_here.png)
-
 ## Description
 
 Simon is an electronic game of short-term memory skill. The game creates a series of tones and lights and requires the user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails, the game is over.
